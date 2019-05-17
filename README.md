@@ -14,7 +14,6 @@ Analysis for experimental results in which mice were treated with 9 differents d
         * Tumor_change_during_treatment.png: a bar plot showing the tumor change in percentage during the 45-day treatment for each drug
 
 * Analysis
-<img src="Pymaceutical/images/Tumor_response_to_treatment.png"
-     alt="Markdown Monster icon"
+<img src="/Pymaceutical/images/Tumor_response_to_treatment.png"
      style="float: left; margin-right: 10px;" />
 
