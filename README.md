@@ -8,12 +8,11 @@ Analysis for experimental results in which mice were treated with 9 differents d
         * clinicaltrial_data.csv: data which include mouse ID, timepoint the tumor volume, and metastatic sites 
         * mouse_drug_data: data which include mouse ID and drug
      * images: images from the results of data analysis
-        * Tumor_response_to_treatment.png: a plot showing the tumor volume for mice during the 45-day treatment for each drug
+        * Tumor_responses_to_treatment.png: a plot showing the tumor volume for mice during the 45-day treatment for each drug
         * Metastatic_spread_during_treatment.png: a plot showing the spreading of metastatic sites during the 45-day treatment for each drug.
         * mouse_survival_during_treatment.png: a plot showing the mouse survival rate during the 45-day treatment for each drug.
         * Tumor_change_during_treatment.png: a bar plot showing the tumor change in percentage during the 45-day treatment for each drug
 
 * Analysis
-<img src="/Pymaceutical/images/Tumor_response_to_treatment.png"
-     style="float: left; margin-right: 10px;" />
+![](Pymaceuticals/images/Tumor_responses_to_treatment.png)
 
