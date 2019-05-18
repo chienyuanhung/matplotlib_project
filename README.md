@@ -19,14 +19,14 @@ Analysis for experimental results in which mice were treated with 9 differents d
 
 * Tumor Response to Treatment
   * Mice were treated with differnt drugs (including a placebo) for 45 days. Tumor volume (in mm3) were recored every 5 days
-  * The plot showed the mean  tumor volume and standard error for each group of experiment.
-  * The data are divided into two groups, with tumor volumes decreasing during the treatemnt in one group (treated iwth Capomulin or Ramicane, and tumor volumes increasing during the treatemnt in another group (treated with Ceftmin, Inbubinol, Ketapril, Naftisol, Propriva, Stelasyn, Zoniferol, or Placebo)
+  * The plot showed the mean tumor volume and standard error for each group of experiment.
+  * The data are divided into two groups, with tumor volumes decreasing during the treatemnt in one group (treated iwth Capomulin or Ramicane), and tumor volumes increasing during the treatemnt in another group (treated with Ceftmin, Inbubinol, Ketapril, Naftisol, Propriva, Stelasyn, Zoniferol, or Placebo)
 
 
 ![](Pymaceuticals/images/Matastatic_spread_during_treatment.png)
 
 * Metastatic Spreading During Treatment
-  * Mice were treated with differnt drugs (including a placebo) for 45 days. Number of metstatic sites was recored every 5 days
+  * Mice were treated with different drugs (including the placebo) for 45 days. Number of metstatic sites was recored every 5 days
   * The plot showed the mean metastatic sites and standard error for each group of experiment.
   * Metastatic sites were increasing for all drug treatments. Mice treated with Capomulin and Ramicane, which were observed with total tumor volume decreasing, also had lease metastatic sites.
   * Mice treated with Ketapril, which were observed with the most tumor volume increasing among all the treatments, had more metastatic sites than mice with any other treatment (including the Placebo) after 45 days.
@@ -34,14 +34,14 @@ Analysis for experimental results in which mice were treated with 9 differents d
 ![](Pymaceuticals/images/mouse_survival_during_treatment.png)  
 
 * Survival Rate
-  * Mice were treated with differnt drugs (including a placebo) for 45 days. 25 mice were used at the beginning of the experiment for each treatment. 
+  * Mice were treated with different drugs (including the placebo) for 45 days. 25 mice were used at the beginning of the experiment for each treatment. 
   * The plot showed the survial rate for each group of mice
   * Survival rate were decreasing for all drug treatments. Mice treated with Capomulin and Ramicane had highest survival rate
 
 ![](Pymaceuticals/images/mouse_survival_during_treatment.png) 
 
 * Tumor volume change 
-  * Mice were treated with differnt drugs (including a placebo) for 45 days. 
+  * Mice were treated with different drugs (including the placebo) for 45 days. 
   * The bar plot showed the tumor volume change in percentage for each treatment
  * Tumor Volume was decreading in mice treated with Capomulin or Ramicane, and increasing in mice treated with Ceftmin, Inbubinol, Ketapril, Naftisol, Propriva, Stelasyn, Zoniferol, or Placebo 
 
