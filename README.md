@@ -18,7 +18,7 @@ Analysis for experimental results in which mice were treated with 9 differents d
 ![](Pymaceuticals/images/Tumor_responses_to_treatment.png)
 
 * Tumor Response to Treatment
-  * Mice were treated with differnt drugs (including a placebo) for 45 days. Tumor volume (in mm3) were recored every 5 days
+  * Mice were treated with different drugs (including a placebo) for 45 days. Tumor volume (in mm3) were recored every 5 days
   * The plot showed the mean tumor volume and standard error for each group of experiment.
   * The data are divided into two groups, with tumor volumes decreasing during the treatemnt in one group (treated iwth Capomulin or Ramicane), and tumor volumes increasing during the treatemnt in another group (treated with Ceftmin, Inbubinol, Ketapril, Naftisol, Propriva, Stelasyn, Zoniferol, or Placebo)
 
