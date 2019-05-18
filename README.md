@@ -38,7 +38,7 @@ Analysis for experimental results in which mice were treated with 9 differents d
   * The plot showed the survial rate for each group of mice
   * Survival rate were decreasing for all drug treatments. Mice treated with Capomulin and Ramicane had highest survival rate
 
-![](Pymaceuticals/images/Tumor_responses_to_treatment.png) 
+![](Pymaceuticals/images/Tumor_change_during_treatment.png) 
 
 * Tumor volume change 
   * Mice were treated with different drugs (including the placebo) for 45 days. 
